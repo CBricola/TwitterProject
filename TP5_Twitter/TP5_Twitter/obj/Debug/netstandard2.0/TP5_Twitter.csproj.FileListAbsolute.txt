@@ -1,0 +1,13 @@
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\bin\Debug\netstandard2.0\TP5_Twitter.deps.json
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\bin\Debug\netstandard2.0\TP5_Twitter.dll
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\bin\Debug\netstandard2.0\ref\TP5_Twitter.dll
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\bin\Debug\netstandard2.0\TP5_Twitter.pdb
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\TP5_Twitter.AssemblyInfoInputs.cache
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\TP5_Twitter.AssemblyInfo.cs
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\TP5_Twitter.csproj.CoreCompileInputs.cache
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\TP5_Twitter.dll
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\ref\TP5_Twitter.dll
+C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\obj\Debug\netstandard2.0\TP5_Twitter.pdb

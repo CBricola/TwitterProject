@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpATtL5kHA1+lPZ7yKrE48vqjsbpaG7sbn6p9Syo7V6Y2cv78XhHeHCx3FJbLqUDrG2cJFT2XyT6Ni0OziPymw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleme\\source\\repos\\TP5_Twitter\\TP5_Twitter\\TP5_Twitter.iOS\\TP5_Twitter.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleme\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
