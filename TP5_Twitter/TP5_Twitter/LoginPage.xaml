@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:common="clr-namespace:TP5_Twitter;assembly=TP5_Twitter"
+             mc:Ignorable="d"
+             x:Class="TP5_Twitter.LoginPage">
+  <ContentPage.Content>
+
+        
+
+        <StackLayout>
+            <!-- Header-->
+            <common:Header></common:Header>
+            <Label Text="Connection à Twitter" HorizontalTextAlignment="center" TextColor="gray"></Label>
+            <Entry x:Name ="id" Placeholder="Identifiant twitter" PlaceholderColor="gray" ></Entry>
+            <Entry x:Name ="pwd" Placeholder="Mot de passe"  IsPassword="True" PlaceholderColor="gray"></Entry>
+            <StackLayout Orientation="Horizontal">
+                <Switch x:Name="memory"></Switch>
+                <Label Text="se souvenir de moi ?" Margin="7"></Label>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="SE CONNECTER" HorizontalOptions="FillAndExpand" Margin="100,5,100,5" Clicked="Connection_Clicked"></Button>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" >
+                <Label x:Name="erreur" TextColor="Red" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" IsVisible="False"></Label>
+            </StackLayout>
+            
+            <common:Footer></common:Footer>
+        </StackLayout>
+        
+
+
+    </ContentPage.Content>
+</ContentPage>

@@ -8,7 +8,7 @@
 
     <StackLayout>
 
-        <ContentView BackgroundColor="#58B0F0">
+        <ContentView BackgroundColor="#58B0F0" >
             <StackLayout Orientation="Horizontal" Margin="10, 25">
                 <ImageButton Source="pencil.png"  HeightRequest="25" HorizontalOptions="StartAndExpand"></ImageButton>
                 <Label Text="Accueil" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" Font="Bold, 20" TextColor="White"></Label>

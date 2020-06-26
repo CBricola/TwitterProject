@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-06-25T12:18:14.450</Modified>
+      <Modified>2020-06-26T13:54:52.435</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter.UWP\bin\x86\Debug\TP5_Twitter.UWP.exe">
       <PackagePath>entrypoint\TP5_Twitter.UWP.exe</PackagePath>
-      <Modified>2020-06-25T12:18:07.939</Modified>
+      <Modified>2020-06-26T13:54:50.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -720,7 +720,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter\bin\Debug\netstandard2.0\TP5_Twitter.dll">
       <PackagePath>TP5_Twitter.dll</PackagePath>
-      <Modified>2020-06-25T12:50:54.529</Modified>
+      <Modified>2020-06-26T14:11:24.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -879,11 +879,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-06-25T12:18:07.721</Modified>
+      <Modified>2020-06-26T13:54:50.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-06-25T12:18:07.722</Modified>
+      <Modified>2020-06-26T13:54:50.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17763.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -899,11 +899,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-06-25T12:18:11.157</Modified>
+      <Modified>2020-06-26T13:27:48.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cleme\source\repos\TP5_Twitter\TP5_Twitter\TP5_Twitter.UWP\bin\x86\Debug\Core\TP5_Twitter.UWP.exe">
       <PackagePath>TP5_Twitter.UWP.exe</PackagePath>
-      <Modified>2020-06-25T12:18:14.416</Modified>
+      <Modified>2020-06-26T13:54:52.410</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

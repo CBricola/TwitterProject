@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StackLayout xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TP5_Twitter.Header">
+    
+    <StackLayout>
+            <ContentView BackgroundColor="#58B0F0" >
+                <StackLayout Orientation="Horizontal" Margin="10, 25">
+                    <ImageButton Source="pencil.png"  HeightRequest="25" HorizontalOptions="StartAndExpand"></ImageButton>
+                    <Label Text="Accueil" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" Font="Bold, 20" TextColor="White"></Label>
+                    <ImageButton Source="search.png"  HeightRequest="25" HorizontalOptions="EndAndExpand"></ImageButton>
+                </StackLayout>
+            </ContentView>
+        </StackLayout>
+</StackLayout>
